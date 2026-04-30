@@ -1,0 +1,6 @@
+a=input('enter studnet name')
+b=input('enter student roll number')
+c=input('enter student class')
+print('student name is',a)
+print('student roll number is',b)
+print('student class is',c)
