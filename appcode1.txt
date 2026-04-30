@@ -1,4 +1,4 @@
 this is app code 1 file
-created for testing purpose need to mergae and pull the reqat
+created for testing purpose need to merge and clone the request
 i am yoga 
-i am could admin
+i am could window admin
